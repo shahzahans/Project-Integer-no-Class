@@ -1,10 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/RjLVXri_)
 # Integer Set Operations
 
-In this assignment you are expected to implement functions representing several set operations.
+In this assignment, you are expected to implement functions representing several set operations.
 
 ## Goal
-Implement C++ functions tha represent some integer set operations. Once the functions are _correctly_ implemented then you will pass the 61 tests that are given to you in the main file.
+Implement C++ functions that represent some integer set operations. Once the functions are _correctly_ implemented then you will pass the 61 tests that are given to you in the main file.
 
 This lab will help you practice the following topics:
 * Working with tests
