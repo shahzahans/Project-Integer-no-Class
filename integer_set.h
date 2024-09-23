@@ -4,7 +4,7 @@
  *          ---------------------------------------------
  *          D O   N O T   M O D I F Y   T H I S   F I L E
  *          ---------------------------------------------
- * Author:  Carlos R. Arias
+ * Author: Carlos R. Arias
  * Date:    2022-12-12
  */
 
